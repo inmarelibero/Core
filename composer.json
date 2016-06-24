@@ -45,7 +45,7 @@
         "sylius/shipping": "dev-symfony_3_compatibility",
         "sylius/storage": "^0.19",
         "sylius/taxation": "dev-symfony_3_compatibility",
-        "sylius/taxonomy": "^0.19",
+        "sylius/taxonomy": "dev-symfony_3_compatibility",
         "sylius/user": "^0.19",
         "sylius/variation": "dev-symfony_3_compatibility",
         "sylius/association": "^0.19",
