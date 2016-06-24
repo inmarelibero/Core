@@ -31,7 +31,7 @@
         "sylius/contact": "dev-symfony_3_compatibility",
         "sylius/currency": "dev-symfony_3_compatibility",
         "sylius/inventory": "^0.19",
-        "sylius/locale": "^0.19",
+        "sylius/locale": "dev-symfony_3_compatibility",
         "sylius/order": "^0.19",
         "sylius/originator": "^0.19",
         "sylius/payment": "^0.19",
